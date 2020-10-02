@@ -29,8 +29,15 @@ __Installation:__
 
 ---
 
-## Qwerty ~ Abcdef
+### Qwerty ~ Abcdef
+> chmod +x qwerty.py
 
-![Zech Bron](https://raw.githubusercontent.com/ZechBron/zeChKey/zeChez-Bron/20201002_151708.gif)
+> ./qwerty.py
+__Or__
+> python qwerty.py 
+__Or__
+> python3 qwerty.py
+
+<!--![Zech Bron](https://raw.githubusercontent.com/ZechBron/zeChKey/zeChez-Bron/20201002_151708.gif)-->
 
 ![Qwerty ~ Abcdef](https://raw.githubusercontent.com/ZechBron/zeChKey/zeChez-Bron/20201002_202320.gif)
