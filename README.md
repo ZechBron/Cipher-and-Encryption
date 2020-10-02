@@ -7,3 +7,5 @@ I am a person who love to hides secrets. When I was grade 5, I have this diary o
 # No Content Yet
 
 ![Zech Bron](https://raw.githubusercontent.com/ZechBron/zeChKey/zeChez-Bron/20201002_151708.gif)
+
+![Qwerty ~ Abcdef](https://raw.githubusercontent.com/ZechBron/zeChKey/zeChez-Bron/20201002_202320.gif)
