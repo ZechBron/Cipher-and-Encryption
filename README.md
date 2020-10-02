@@ -1,4 +1,4 @@
-# zeChKey - For Personal Use [![Code Content] (https://img.shields.io/badge/Code%20Content-1-blue)](https://github.com/ZechBron/zeChKey)](https://github.com/ZechBron)
+# zeChKey - For Personal Use [![Code Content](https://img.shields.io/badge/Code%20Content-1-blue)](https://github.com/ZechBron/zeChKey)
 
 [![Author](https://img.shields.io/badge/Code%20Content-1-red)](https://github.com/ZechBron) [![Follow Me](https://img.shields.io/github/followers/ZechBron?label=Follow%20Me&style=social)
 
