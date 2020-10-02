@@ -1,4 +1,5 @@
-# zeChKey - For Personal Use
+# zeChKey - For Personal Use [![Code Content](https://img.shields.io/badge/Code%20Content-1-blue)](https://github.com/ZechBron)
+
 
 __My very own encryption. My very own keys. My very own hidden codes.__
 
