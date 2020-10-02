@@ -7,29 +7,26 @@ I am a person who love to hides secrets. When I was grade 5, I have this diary o
 ---
 
 ## Basic Installation:
-```
 
 __Ubuntu Requirements:__
-
+```
 > apt-get install git -y
 
 > apt-get install python3 python3-pip -y
 
 > pip3 -m install --upgrade pip
-
+```
 __Termux Requirements:__
-
+```
 > pkg install python -y
 
 > pkg install git -y
 
 > pip install --upgrade pip
-
+```
 __Installation:__
-
 > git clone https://github.com/ZechBron/zeChKey
 
-```
 
 ## Qwerty ~ Abcdef
 
