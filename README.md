@@ -33,9 +33,13 @@ __Installation:__
 > chmod +x qwerty.py
 
 > ./qwerty.py
+
 __Or__
+
 > python qwerty.py 
+
 __Or__
+
 > python3 qwerty.py
 
 <!--![Zech Bron](https://raw.githubusercontent.com/ZechBron/zeChKey/zeChez-Bron/20201002_151708.gif)-->
