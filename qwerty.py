@@ -6,6 +6,9 @@ Coded By: Zech Bron
 Description:
    I've created Qwerty Abcde which is based from keyboard.
 '''
+print("Cipher: Qwerty ~ Abcdef")
+print("Description: Qwerty Abcdef based from keyboard.\n Where Q is A, W is B ... and M is Z\n\n")
+
 
 def encode(string):
    zCh = str.maketrans("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz","QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm")
