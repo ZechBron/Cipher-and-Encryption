@@ -1,7 +1,7 @@
 #!/bin/python
 
 '''
-Cipher: Substitution
+Cipher: Rot - 13
 GitHub: https://github.com/ZechBron/Cipher-and-Encryption
 
 a - n		n - a
@@ -18,7 +18,7 @@ k - x		x - k
 l - y		y - l
 m - z		z - m
 '''
-print("Cipher: Substitution\n\n")
+print("Cipher: Rot-13\n\n")
 
 def encode(string):
    zCh = str.maketrans("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz","NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm")
